@@ -32,3 +32,4 @@ gulp.task('serve',['saas'],function(){
 
 gulp.task('default',['js','serve']);
 //Not fucntional
+//Trail 1 no solution found, might have to redo the whole thing.
